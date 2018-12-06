@@ -1,7 +1,5 @@
 node_modules
 .vscode
-package-lock.json
-yarn.lock
 *.log
 
 public/bundle.js
